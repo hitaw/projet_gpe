@@ -1,0 +1,20 @@
+
+<abstractAccessItems>
+	<abstractAccessItem id="IDFM:11043.link:212344-0" transitStopId="IDFM:11043.link:212344" radius="10000.0" averageSpeed="100.0" usingRoutedDistance="false" accessType="bus" frequency="600"/>
+	<abstractAccessItem id="IDFM:11047.link:69855-0" transitStopId="IDFM:11047.link:69855" radius="10000.0" averageSpeed="100.0" usingRoutedDistance="false" accessType="bus" frequency="600"/>
+	<abstractAccessItem id="IDFM:11044.link:69917-0" transitStopId="IDFM:11044.link:69917" radius="10000.0" averageSpeed="100.0" usingRoutedDistance="false" accessType="bus" frequency="600"/>
+	<abstractAccessItem id="IDFM:11076.link:175392-0" transitStopId="IDFM:11076.link:175392" radius="10000.0" averageSpeed="100.0" usingRoutedDistance="false" accessType="bus" frequency="600"/>
+	<abstractAccessItem id="IDFM:11041.link:491973-0" transitStopId="IDFM:11041.link:491973" radius="10000.0" averageSpeed="100.0" usingRoutedDistance="false" accessType="bus" frequency="600"/>
+	<abstractAccessItem id="IDFM:20484.link:175393-0" transitStopId="IDFM:20484.link:175393" radius="10000.0" averageSpeed="100.0" usingRoutedDistance="false" accessType="bus" frequency="600"/>
+	<abstractAccessItem id="IDFM:11040.link:175399-0" transitStopId="IDFM:11040.link:175399" radius="10000.0" averageSpeed="100.0" usingRoutedDistance="false" accessType="bus" frequency="600"/>
+	<abstractAccessItem id="IDFM:20480.link:644287-0" transitStopId="IDFM:20480.link:644287" radius="10000.0" averageSpeed="100.0" usingRoutedDistance="false" accessType="bus" frequency="600"/>
+	<abstractAccessItem id="IDFM:11046.link:69853-0" transitStopId="IDFM:11046.link:69853" radius="10000.0" averageSpeed="100.0" usingRoutedDistance="false" accessType="bus" frequency="600"/>
+	<abstractAccessItem id="IDFM:20486.link:644285-0" transitStopId="IDFM:20486.link:644285" radius="10000.0" averageSpeed="100.0" usingRoutedDistance="false" accessType="bus" frequency="600"/>
+	<abstractAccessItem id="IDFM:19851.link:585704-0" transitStopId="IDFM:19851.link:585704" radius="10000.0" averageSpeed="100.0" usingRoutedDistance="false" accessType="bus" frequency="600"/>
+	<abstractAccessItem id="IDFM:11077.link:69913-0" transitStopId="IDFM:11077.link:69913" radius="10000.0" averageSpeed="100.0" usingRoutedDistance="false" accessType="bus" frequency="600"/>
+	<abstractAccessItem id="IDFM:479566.link:532667-0" transitStopId="IDFM:479566.link:532667" radius="10000.0" averageSpeed="100.0" usingRoutedDistance="false" accessType="bus" frequency="600"/>
+	<abstractAccessItem id="IDFM:11074.link:249847-0" transitStopId="IDFM:11074.link:249847" radius="10000.0" averageSpeed="100.0" usingRoutedDistance="false" accessType="bus" frequency="600"/>
+	<abstractAccessItem id="IDFM:11042.link:491967-0" transitStopId="IDFM:11042.link:491967" radius="10000.0" averageSpeed="100.0" usingRoutedDistance="false" accessType="bus" frequency="600"/>
+	<abstractAccessItem id="IDFM:19837.link:585704-0" transitStopId="IDFM:19837.link:585704" radius="10000.0" averageSpeed="100.0" usingRoutedDistance="false" accessType="bus" frequency="600"/>
+	<abstractAccessItem id="IDFM:20485.link:175398-0" transitStopId="IDFM:20485.link:175398" radius="10000.0" averageSpeed="100.0" usingRoutedDistance="false" accessType="bus" frequency="600"/>
+</abstractAccessItems>
