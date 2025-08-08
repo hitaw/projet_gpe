@@ -1,0 +1,10 @@
+{
+    "stations" : "data/clean_data/stations.csv",
+    "lines" : "data/clean_data/lines.csv",
+    "journey_time" : "data/clean_data/journey_time.csv",
+    "gtfs_data" : "data/IDFM-gtfs-june",
+    "dest_folder" : "GTFS_versions/GTFS_completed",
+    "forks" : "data/clean_data/forks.csv",
+    "agency" : "GPE",
+    "suffix" :"GPE"
+}

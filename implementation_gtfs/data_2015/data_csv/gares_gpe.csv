@@ -1,0 +1,76 @@
+Code;code interne;Libelle;Ligne
+GA01;01LBG;Le Bourget RER;L16/L17
+GA02;02LBM;Le Blanc-Mesnil;L16
+GA03;03ALN;Aulnay;L16
+GA04;04SEB;Sevran - Beaudottes;L16
+GA05;05SEL;Sevran - Livry;L16
+GA06;06CMF;Clichy - Montfermeil;L16
+GA07;07CHL;Chelles;L16
+GA08;08NCH;Noisy - Champs;L15/L16
+GA09;09BVC;Bry - Villiers - Champigny;L15
+GA10;10CHC;Champigny Centre;L15
+GA11;11SMC;Saint-Maur - Créteil;L15
+GA12;12CLE;Créteil L'Echat;L15
+GA13;13VDM;Le Vert de Maisons;L15
+GA14;14ARD;Les Ardoines;L15
+GA15;15VIC;Vitry Centre;L15
+GA16;16VLA;Villejuif Louis Aragon;L15
+GA17;17IGR;Villejuif Institut Gustave Roussy;L15
+GA18;18ARC;Arcueil - Cachan;L15
+GA19;19BAG;Bagneux;L15
+GA20;20CHM;Châtillon - Montrouge;L15
+GA21;21FVC;Fort d'Issy - Vanves - Clamart;L15
+GA22;22ISS;Issy RER;L15
+GA23;23PDS;Pont de Sèvres;L15
+GA24;24SCL;Saint-Cloud;L15
+GA25;25RSM;"Rueil - Suresnes ""Mont-Valérien""";L15
+GA26;26NLB;Nanterre La Boule;L15
+GA27;27NLF;Nanterre La Folie;L15
+GA28;28DEF;La Défense;L15
+GA29;29BLB;Bécon-les-Bruyères;L15
+GA30;30BCO;Bois-Colombes;L15
+GA31;31AGN;Les Agnettes;L15
+GA32;32GRE;Les Grésillons;L15
+GA33;33SDP;Saint-Denis Pleyel;L14/L15/L16/L17
+GA34;34LCO;"La Courneuve ""Six Routes""";L16/L17
+GA35;35LBA;Le Bourget Aéroport;L17
+GA36;36TDG;Triangle de Gonesse;L17
+GA37;37PEX;Parc des Expositions;L17
+GA38;38CG2;Aéroport Charles de Gaulle T2;L17
+GA39;39CG4;Aéroport Charles de Gaulle T4;L17
+GA40;40LMA;Le Mesnil-Amelot;L17
+GA41;41MBP;Maison Blanche - Paris XIIIe;L14
+GA42;42KBH;Kremlin-Bicêtre Hôpital;L14
+GA43;43C3C;"Chevilly ""Trois Communes""";L14
+GA44;44PDT;M.I.N. Porte de Thiais;L14
+GA45;45PDR;Pont de Rungis;L14
+GA46;46ORY;Aéroport d'Orly;L14/L18
+GA47;47ANT;Antonypôle;L18
+GA48;48MAO;Massy Opéra;L18
+GA49;49MAS;Massy - Palaiseau;L18
+GA50;50PAL;Palaiseau;L18
+GA51;51ORS;Orsay - Gif;L18
+GA52;52CEA;CEA Saint-Aubin;L18
+GA53;53SQE;Saint-Quentin Est;L18
+GA54;54SQU;Saint-Quentin Université;L18
+GA55;55SAT;Satory;L18
+GA56;56VCH;Versailles Chantiers;L18
+GA64;64SDF;Stade de France;L15
+GA65;65MAU;Mairie d'Aubervilliers;L15
+GA66;66FAU;Fort d'Aubervilliers;L15
+GA67;67DBO;Drancy - Bobigny;L15
+GA68;68BPP;Bobigny Pablo Picasso;L15
+GA69;69PBO;Pont de Bondy;L15
+GA70;70BON;Bondy;L15
+GA71;71RBP;Rosny Bois-Perrier;L15
+GA73;73VDF;Val de Fontenay;L15
+GA74;74NLP;Nogent - Le Perreux;L15
+GA90;90OLY;Olympiades;L14
+GA98;98STL;Saint-Lazare;L14
+GA60;60PCA;Pont Cardinet;L14
+GA61;61PCY;Porte de Clichy;L14
+GA62;62STO;Saint-Ouen RER;L14
+GA63;63MSO;Mairie de Saint-Ouen;L14
+GA57;57RUL;Rueil;L18
+GA78;78COL;Colombes;L15
+GA79;79LGC;La Garenne-Colombes;L15

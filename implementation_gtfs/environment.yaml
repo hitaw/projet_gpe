@@ -1,0 +1,14 @@
+name: gtfs
+channels:
+  - conda-forge
+dependencies:
+  - polars
+  - geopy
+  - pandas
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - geopandas
+  - scipy
+  - python=3.12
+  - pyarrow

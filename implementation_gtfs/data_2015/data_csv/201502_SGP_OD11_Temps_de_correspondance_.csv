@@ -1,0 +1,74 @@
+Ligne;Code_Gare;Libelle;Correspondance mode lourd;Temps de correspondance
+L15;GA23;Pont de Sèvres;Métro 9;5 min
+L15;GA22;Issy RER;RER C;4 min 30
+L15;GA22;Issy RER;Métro 12 (Projet);n.d.
+L15;GA21;Fort d'Issy - Vanves - Clamart;Transilien N;3 min 30
+L15;GA20;Châtillon - Montrouge;Métro 13;4 min
+L15;GA20;Châtillon - Montrouge;Tramway T6;5 min
+L15;GA19;Bagneux;Métro 4 (Projet);3 min
+L15;GA18;Arcueil - Cachan;RER B;4 min
+L14/L15;GA17;Villejuif Institut Gustave Roussy;Ligne 14 < > Ligne 15;2 min 30
+L15;GA16;Villejuif Louis Aragon;Métro 7;2 min 30
+L15;GA16;Villejuif Louis Aragon;Tramway T7;3 min 30
+L15;GA15;Vitry Centre;Tramway T9 (Projet);3 min 30
+L15;GA14;Les Ardoines;RER C;3 min 30
+L15;GA13;Le Vert de Maisons;RER D;4 min 30
+L15;GA12;Créteil L'Echat;Métro 8;4 min 30
+L15;GA11;Saint-Maur - Créteil;RER A;4 min 30
+L15;GA10;Champigny Centre;-;-
+L15;GA09;Bry - Villiers - Champigny;RER E (Projet);4 min 30
+L15/L16;GA08;Noisy - Champs;RER A;2 min
+L15/L16;GA08;Noisy - Champs;Ligne 11 < > Lignes 15-16;3 min 30
+L15/L16;GA08;Noisy - Champs;Ligne 15 < > Ligne 16;1 min
+L16;GA07;Chelles;RER E / Transilien P;5 min
+L16;GA06;Clichy - Montfermeil;Tramway T4 (Projet);4 min
+L16;GA05;Sevran - Livry;RER B;4 min
+L16;GA04;Sevran - Beaudottes;RER B;3 min
+L16;GA03;Aulnay;-;-
+L16;GA02;Le Blanc-Mesnil;-;-
+L16/L17;GA01;Le Bourget RER;RER B;5 min
+L16/L17;GA01;Le Bourget RER;Tram Express Nord (Projet);3 min � 4 min
+L16/L17;GA34;"La Courneuve ""Six Routes""";Tramway T1;3 min � 4 min
+L14/L15/L16/L17;GA33;Saint-Denis Pleyel;RER D / Transilien H (Projet);8 min
+L14/L15/L16/L17;GA33;Saint-Denis Pleyel;Lignes GPE entre elles;2 min
+L17;GA35;Le Bourget Aéroport;-;-
+L17;GA36;Triangle de Gonesse;RER D (Projet);3 min 30
+L17;GA37;Parc des Expositions;RER B;2 min 30
+L17;GA37;Parc des Expositions;RER D (Projet);2 min
+L17;GA38;Aéroport Charles de Gaulle T2;RER B;7 min 30
+L17;GA39;Aéroport Charles de Gaulle T4;-;-
+L17;GA40;Le Mesnil-Amelot;-;-
+L15;GA32;Les Grésillons;RER C;3 min 30
+L15;GA31;Les Agnettes;Métro 13;4 min 30
+L15;GA30;Bois-Colombes;Transilien J;3 min 30
+L15;GA29;Bécon-les-Bruyères;Transilien L;4 min
+L15;GA28;La Défense;Métro 1;Temps d?acc�s aux quais Grand Paris Express depuis C?ur Transport : 2 min 30 � 3 min
+L15;GA28;La Défense;RER A;
+L15;GA28;La Défense;RER E (Projet);
+L15;GA28;La Défense ;Transilien L/U;
+L15;GA28;La Défense;Tramway T2;
+L15;GA27;Nanterre La Folie;RER E (Projet);3 min
+L15;GA26;Nanterre La Boule;Tramway T1 (Projet);4 min
+L15;GA25;"Rueil - Suresnes ""Mont-Val�rien""";-;-
+L15;GA24;Saint-Cloud;Transilien L/U;3 min 30
+L14;GA41;Maison Blanche - Paris XIIIe;M�tro 7;2 min 30
+L14;GA42;Kremlin-Bic�tre H�pital;-;-
+L14;GA43;"Chevilly ""Trois Communes""";-;-
+L14;GA44;M.I.N. Porte de Thiais;Tramway T7;3 min
+L14;GA45;Pont de Rungis;RER C;4 min
+L14/L18;GA46;A�roport d'Orly;Ligne 14 < > Ligne 18;"- 15 secondes (correspondance quai � quai)
+- 1min30 par le niveau mezzanine "
+L18;GA47;Antonyp�le;-;-
+L18;GA48;Massy Op�ra;-;-
+L18;GA49;Massy - Palaiseau;RER C;4 min
+L18;GA49;Massy - Palaiseau;RER B;5 min
+L18;GA49;Massy - Palaiseau;Tram Express Sud (Projet);4 min
+L18;GA50;Palaiseau;-;-
+L18;GA51;Orsay - Gif;-;-
+L18;GA52;CEA Saint-Aubin;-;-
+L18;GA53;Saint-Quentin Est;-;-
+L18;GA54;Saint-Quentin Universit�;-;-
+L18;GA55;Satory;-;-
+L18;GA56;Versailles Chantiers;RER C;6 min 30
+L18;GA56;Versailles Chantiers;Transilien N/U;6 min 30
+L18;GA56;Versailles Chantiers;Tram Express Sud (Projet);6 min 30

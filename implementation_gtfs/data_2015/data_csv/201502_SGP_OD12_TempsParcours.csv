@@ -1,0 +1,61 @@
+Ligne;Depart;Arrivee;Temps
+Ligne 16;Saint-Denis Pleyel;La Courneuve Six Routes;174
+Ligne 16;La Courneuve Six Routes;Le Bourget RER;169
+Ligne 16;Le Bourget RER;Le Blanc-Mesnil;177
+Ligne 16;Le Blanc-Mesnil;Aulnay;132
+Ligne 16;Aulnay;Sevran-Beaudottes;181
+Ligne 16;Sevran-Beaudottes;Sevran-Livry;121
+Ligne 16;Sevran-Livry;Clichy-Montfermeil;207
+Ligne 16;Clichy-Montfermeil;Chelles;204
+Ligne 16;Chelles;Noisy-Champs;178
+Ligne 15;Noisy-Champs;Bry-Villiers-Champigny;237
+Ligne 15;Bry-Villiers-Champigny;Champigny Centre;159
+Ligne 15;Champigny Centre;Saint-Maur Créteil;188
+Ligne 15;Saint-Maur Créteil;Créteil L'Echat;150
+Ligne 15;Créteil L'Echat;Le Vert de Maisons;125
+Ligne 15;Le Vert de Maisons;Les Ardoines;134
+Ligne 15;Les Ardoines;Vitry Centre;149
+Ligne 15;Vitry Centre;Villejuif Louis Aragon;146
+Ligne 15;Villejuif Louis Aragon;Villejuif Institut G. Roussy;143
+Ligne 15;Villejuif Institut G. Roussy;Arcueil-Cachan;142
+Ligne 15;Arcueil-Cachan;Bagneux M4;100
+Ligne 15;Bagneux M4;Châtillon-Montrouge;125
+Ligne 15;Châtillon-Montrouge;Fort d'Issy - Vanves - Clamart;140
+Ligne 15;Fort d'Issy - Vanves - Clamart;Issy RER;127
+Ligne 15;Issy RER;Pont de Sèvres;147
+Ligne 15;Pont de Sèvres;Saint-Cloud Transilien;165
+Ligne 15;Saint-Cloud Transilien;Rueil-Suresnes;174
+Ligne 15;Rueil-Suresnes;Nanterre La Boule;138
+Ligne 15;Nanterre La Boule;Nanterre La Folie;146
+Ligne 15;Nanterre La Folie;La Défense;140
+Ligne 15;La Défense;Bécon-les-Bruyères;204
+Ligne 15;Bécon-les-Bruyères;Bois-Colombes;112
+Ligne 15;Bois-Colombes;Les Agnettes;119
+Ligne 15;Les Agnettes;Les Grésillons;142
+Ligne 15;Les Grésillons;Saint-Denis Pleyel;151
+Ligne 17;Saint-Denis Pleyel;La Courneuve Six Routes;174
+Ligne 17;La Courneuve Six Routes;Le Bourget RER;169
+Ligne 17;Le Bourget RER;Le Bourget Aéroport;173
+Ligne 17;Le Bourget Aéroport;Triangle de Gonesse;223
+Ligne 17;Triangle de Gonesse;Parc des Expositions;220
+Ligne 17;Parc des Expositions;Aéroport Charles de Gaulle T2;248
+Ligne 17;Aéroport Charles de Gaulle T2;Aéroport Charles de Gaulle T4;98
+Ligne 17;Aéroport Charles de Gaulle T4;Le Mesnil-Amelot;153
+Ligne 14;Saint-Denis Pleyel;Mairie de Saint-Ouen;127
+Ligne 14;Olympiades;Maison-Blanche;129
+Ligne 14;Maison-Blanche;Kremlin-Bicêtre Hôpital;113
+Ligne 14;Kremlin-Bicêtre Hôpital;Villejuif Institut G. Roussy;147
+Ligne 14;Villejuif Institut G. Roussy;Chevilly Trois Communes;119
+Ligne 14;Chevilly Trois Communes;M.I.N. Porte de Thiais;171
+Ligne 14;M.I.N. Porte de Thiais;Pont de Rungis;119
+Ligne 14;Pont de Rungis;Aéroport d'Orly;149
+Ligne 18;Aéroport d'Orly;Antonypôle;233
+Ligne 18;Antonypôle;Massy Opéra;126
+Ligne 18;Massy Opéra;Massy-Palaiseau;154
+Ligne 18;Massy-Palaiseau;Palaiseau;248
+Ligne 18;Palaiseau;Orsay-Gif;136
+Ligne 18;Orsay-Gif;CEA Saint-Aubin;154
+Ligne 18;CEA Saint-Aubin;Saint-Quentin Est;398
+Ligne 18;Saint-Quentin Est;Saint-Quentin Université;200
+Ligne 18;Saint-Quentin Université;Satory;215
+Ligne 18;Satory;Versailles Chantiers;147

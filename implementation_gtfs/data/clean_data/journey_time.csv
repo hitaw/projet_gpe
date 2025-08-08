@@ -1,0 +1,109 @@
+line,departure,arrival,time,direction,itinerary
+15,Champigny Centre,Nogent - Le Perreux,240,,
+15,Nogent - Le Perreux,Val de Fontenay,120,,
+15,Val de Fontenay,Rosny Bois-Perrier,180,,
+15,Rosny Bois-Perrier,Bondy,120,,
+15,Bondy,Pont de Bondy,90,,
+15,Pont de Bondy,Bobigny - Pablo Picasso,90,,
+15,Bobigny - Pablo Picasso,Drancy - Bobigny,120,,
+15,Drancy - Bobigny,Fort d'Aubervilliers,120,,
+15,Fort d'Aubervilliers,Mairie d'Aubervilliers,150,,
+15,Mairie d'Aubervilliers,Stade de France,150,,
+15,Stade de France,Saint-Denis - Pleyel,120,,
+15,Saint-Denis - Pleyel,Les Grésillons,150,,
+15,Les Grésillons,Les Agnettes,140,,
+15,Les Agnettes,Bois-Colombes,120,,
+15,Bois-Colombes,Bécon-les-Bruyères,110,,
+15,Bécon-les-Bruyères,La Défense,205,,
+15,La Défense,Nanterre La Folie,140,,
+15,Nanterre La Folie,Nanterre La Boule,145,,
+15,Nanterre La Boule,Rueil - Suresnes Mont-Valérien,150,,
+15,Rueil - Suresnes Mont-Valérien,Saint-Cloud,175,,
+15,Saint-Cloud,Pont de Sèvres,165,,
+15,Pont de Sèvres,Issy,150,,
+15,Issy,Clamart,130,,
+15,Clamart,Châtillon - Montrouge,140,,
+15,Châtillon - Montrouge,Bagneux - Lucie Aubrac,120,,
+15,Bagneux - Lucie Aubrac,Arcueil - Cachan,120,,
+15,Arcueil - Cachan,Villejuif - Gustave Roussy,145,,
+15,Villejuif - Gustave Roussy,Villejuif - Louis Aragon,145,,
+15,Villejuif - Louis Aragon,Mairie de Vitry-sur-Seine,180,,
+15,Mairie de Vitry-sur-Seine,Les Ardoines,180,,
+15,Les Ardoines,Le Vert de Maisons,135,,
+15,Le Vert de Maisons,Créteil - L'Échat,125,,
+15,Créteil - L'Échat,Saint-Maur - Créteil,150,,
+15,Saint-Maur - Créteil,Champigny Centre,240,,
+15,Champigny Centre,Villiers - Champigny - Bry,160,,
+15,Villiers - Champigny - Bry,Noisy - Champs,240,,
+16,Saint-Denis - Pleyel,La Courneuve - Six Routes,180,,
+16,La Courneuve - Six Routes,Le Bourget,170,,
+16,Le Bourget,Parc du Blanc-Mesnil,180,,
+16,Parc du Blanc-Mesnil,Aulnay - Val Francilia,130,,
+16,Aulnay - Val Francilia,Sevran - Beaudottes,180,,
+16,Sevran - Beaudottes,Sevran - Livry,120,,
+16,Sevran - Livry,Clichy - Montfermeil,210,,
+16,Clichy - Montfermeil,Chelles - Gournay,205,,
+16,Chelles - Gournay,Noisy - Champs,185,,
+17,Saint-Denis - Pleyel,La Courneuve - Six Routes,180,,
+17,La Courneuve - Six Routes,Le Bourget,170,,
+17,Le Bourget,Le Bourget - Aéroport,180,,
+17,Le Bourget - Aéroport,Gonesse,220,,
+17,Gonesse,Parc des Expositions,220,,
+17,Parc des Expositions,Aéroport Charles de Gaulle 2 TGV,250,,
+17,Aéroport Charles de Gaulle 2 TGV,Aéroport Charles de Gaulle 2e gare,100,,
+17,Aéroport Charles de Gaulle 2e gare,Le Mesnil-Amelot,150,,
+18,Aéroport d'Orly,Antonypole - Wissous Centre,235,,
+18,Antonypole - Wissous Centre,Massy Opéra,125,,
+18,Massy Opéra,Massy - Palaiseau,155,,
+18,Massy - Palaiseau,Marguerite Perey,250,,
+18,Marguerite Perey,Moulon Campus,135,,
+18,Moulon Campus,Christ de Saclay,155,,
+18,Christ de Saclay,Guyancourt,400,,
+18,Guyancourt,Satory,415,,
+18,Satory,Versailles - Chantiers,150,,
+E,Nanterre - La Folie,Houilles-Carrières-sur-Seine,,,
+E,Houilles-Carrières-sur-Seine,Poissy,,,
+E,Poissy,Villennes-sur-Seine,,,
+E,Villennes-sur-Seine,Vernouillet-Verneuil,,,
+E,Vernouillet-Verneuil,Les Clairières de Verneuil,,,
+E,Les Clairières de Verneuil,Les Mureaux,,,
+E,Les Mureaux,Aubergenville-Élisabethville,,,
+E,Aubergenville-Élisabethville,Épône-Mézières,,,
+E,Épône-Mézières,Mantes Station,,,
+E,Mantes Station,Mantes-la-Jolie,,,
+T1,Asnières - Quatre Routes,Champarons,,,0
+T1,Champarons,Caillebotte,,,0
+T1,Caillebotte,Gare du Stade,,,0
+T1,Gare du Stade,Valmy,,,0
+T1,Valmy,Pierre de Courbetin,,,0
+T1,Pierre de Courbetin,Stade Yves du Manoir,,,0
+T1,Stade Yves du Manoir,Ile Marante,,,0
+T1,Ile Marante,Hôpital Louis Mourier,,,0
+T1,Hôpital Louis Mourier,Rue de Seine,,,0
+T1,Rue de Seine,Parc Pierre Lagravère,,,0
+T1,Parc Pierre Lagravère,Petit-Colombes,,,0
+T1,Gare de Noisy-le-Sec,Saint-Jean,,,1
+T1,Saint-Jean,Place Jeanne D'Arc,,,1
+T1,Place Jeanne D'Arc,Rue Hélène,,,1
+T1,Rue Hélène,Carrefour de la Vierge,,,1
+T1,Carrefour de la Vierge,Place Carnot,,,1
+T1,Place Carnot,Collège G. Courbet,,,1
+T1,Collège G. Courbet,Libre Pensée,,,1
+T1,Libre Pensée,Route de Romainville,,,1
+T1,Route de Romainville,Aristide Briand,,,1
+T1,Aristide Briand,Rue de Rosny,,,1
+T1,Rue de Rosny,Théophile Sueur,,,1
+T1,Théophile Sueur,Côte du Nord,,,1
+T1,Côte du Nord,Victor Hugo,,,1
+T1,Victor Hugo,Faidherbe,,,1
+T1,Faidherbe,Val de Fontenay,,,1
+T7,Porte de l'Essonne,Le Contin,,,
+T7,Le Contin,Stade Delaune,,,
+T7,Stade Delaune,Pyramide,,,
+T7,Pyramide,Observatoire,,,
+T7,Observatoire,Maréchal Leclerc,,,
+T7,Maréchal Leclerc,Juvisy,,,
+T13,Lisière Pereire,Poissy Gambetta,,,1
+T13,Poissy Gambetta,Poissy,,,1
+T13,Poissy,Poissy ZAC,,,1
+T13,Poissy ZAC,Achères Ville,,,1
